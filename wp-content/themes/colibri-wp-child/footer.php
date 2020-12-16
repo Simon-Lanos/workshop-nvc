@@ -1,5 +1,8 @@
 <footer>
-  <div><?php colibriwp_theme_print_footer_copyright(); ?></div>
+  <h3>
+    <?php $blogName = get_bloginfo( $show='name', $filter );
+    echo $blogName; ?>
+  </h3>
   <?php
   wp_nav_menu( array( 
       'theme_location' => 'footer-custom-menu', 

@@ -1,6 +1,13 @@
 footer {
   text-align: center;
   padding: 2rem 0;
+  color: #144746;
+  background: #E5E7975C;
+}
+
+footer h3 {
+  font-weight: bold;
+  font-size: 1.8rem;
 }
 
 .footer-custom-menu ul {
@@ -15,5 +22,5 @@ footer {
 }
 
 .footer-custom-menu a {
-  color: #ED7536;
+  color: #144746;
 }
