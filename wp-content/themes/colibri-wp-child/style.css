@@ -19,10 +19,6 @@
 @import url("css/fonts.css");
 @import url("css/footer.css");
 
-body * {
+#colibri * {
   font-family: 'Segoe UI' !important;
-}
-
-body h1 {
-  font-family: 'Comic Sans MS' !important;
 }
