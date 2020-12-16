@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Segoe UI';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Segoe UI Regular'), url('../assets/fonts/segoe_UI.woff') format('woff');
+}
+  
+  
+@font-face {
+  font-family: 'Segoe UI';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Segoe UI Bold'), url('../assets/fonts/segoe_UI_bold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Comic Sans MS';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../assets/fonts/ComicSansMS.woff") format("woff");
+}
+
+
