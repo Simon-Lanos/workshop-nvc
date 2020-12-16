@@ -12,3 +12,11 @@ add_action(
     }
 );
 
+function init_custom_menu() {
+    register_nav_menus(
+      array(
+        'footer-custom-menu' => __( 'Footer custom menu' )
+      )
+    );
+  }
+  add_action( 'init', 'init_custom_menu' );

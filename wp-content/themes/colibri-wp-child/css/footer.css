@@ -1,0 +1,19 @@
+footer {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.footer-custom-menu ul {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.footer-custom-menu li {
+  margin: 0 0.5rem;
+}
+
+.footer-custom-menu a {
+  color: #ED7536;
+}
